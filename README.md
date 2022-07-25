@@ -1,4 +1,4 @@
->⚔️ Desafios do Typescript
+>⚔️ Desafios do TypeScript
 
 ## ✏️ Sobre o projeto
 
