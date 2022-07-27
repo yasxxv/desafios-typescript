@@ -22,6 +22,10 @@ fiz durante a aula seguindo os passos do professor!
 - HTML
 - JavaScript
 - TypeScript
+
+### 📅 Data do Projeto:
+
+25 Jul 2022
  
  ---------------------------
 
